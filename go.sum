@@ -1,2 +1,8 @@
 github.com/techfunda4all/workspace v0.0.0-20241007155304-102d955e31ef h1:tTL8A3xahstM5PMx2aUbYDuWu8Iy9TB4ztcJ8mKAGh4=
 github.com/techfunda4all/workspace v0.0.0-20241007155304-102d955e31ef/go.mod h1:lrP9TGrpU2gBCZmAN34ZQpGkP0/GN6Xne3/ESJoETlw=
+github.com/techfunda4all/workspace v0.0.0-20241007162510-f9b761dd4aa2 h1:58nnmNYju3lp4Yr5+s5fpcMm6smCPB9tK5QuXo4oBXc=
+github.com/techfunda4all/workspace v0.0.0-20241007162510-f9b761dd4aa2/go.mod h1:AbzXMT2AP1MRnRtjzOjw8C0j4prgQ6u4SkBZijOWA0E=
+github.com/techfunda4all/workspace/module-1 v0.0.0-20241007163530-14f37af4def4 h1:h8Tkj8LirXxnB9c5/2TIaVlA+C6uFiBboXcJ1s9CIO8=
+github.com/techfunda4all/workspace/module-1 v0.0.0-20241007163530-14f37af4def4/go.mod h1:fFJa1z9VfaxB/6H69crnC9/FsBPjvOUICUMW/udDprM=
+github.com/techfunda4all/workspace/module-2 v0.0.0-20241007163530-14f37af4def4 h1:k0xtnfo+XaOqy3IHlrM9L97UpEd0MltCHwHZi6yHduw=
+github.com/techfunda4all/workspace/module-2 v0.0.0-20241007163530-14f37af4def4/go.mod h1:6OdeuUxS26ajshzhv/9Hy8NIWKdxHrakqDmsYoCDK1Y=
